@@ -37,7 +37,7 @@ Here I have added the search button which willl allow users to select the differ
 
 Here's a walkthrough of implemented required features:
 
-<img src='./project04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Project04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
