@@ -37,7 +37,7 @@ Here I have added the search button which willl allow users to select the differ
 
 Here's a walkthrough of implemented required features:
 
-<img src='./Project04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./project04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
@@ -50,7 +50,7 @@ GIF created with LICEcap
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-It was fun project to work on. And I completed it easily without any hassle.
+
 
 ## License
 
