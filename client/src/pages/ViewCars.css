@@ -1,0 +1,51 @@
+.car__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 20px;
+}
+
+/* Updated styles for summary box */
+.summary__box {
+  background-color: #71080ec4;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(236, 175, 175, 0.2);
+  text-align:center;
+  width: 150%;
+  max-width: 500px; /* Adjust as needed */
+}
+
+.summary__box h2 {
+  font-size: 44px;
+  color: #e7f2b8;
+}
+
+.summary__box p {
+  font-size: 26px;
+  color: #f9e7e7;
+}
+
+/* Updated styles for input */
+.summary__box input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  font-size: 14px;
+  color: rgb(126, 173, 39);
+  background-color: #f3bcbc;
+}
+
+/* Updated styles for search container */
+.search-container {
+  width: 1000px;
+}
+
+ 
